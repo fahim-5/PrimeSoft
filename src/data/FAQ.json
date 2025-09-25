@@ -1,0 +1,359 @@
+[
+  {
+    "category": "General Company & Services",
+    "faqs": [
+      {
+        "question": "What is PrimeSoft's core expertise?",
+        "answer": "PrimeSoft specializes in bespoke software development, mobile application development, and cloud solutions. We help businesses of all sizes build scalable, secure, and impactful digital products."
+      },
+      {
+        "question": "What industries does PrimeSoft serve?",
+        "answer": "We serve a diverse range of industries, including FinTech, Healthcare, E-commerce, Logistics, and PropTech, among others. Our agile approach allows us to adapt to the unique challenges of any sector."
+      },
+      {
+        "question": "Where is PrimeSoft located?",
+        "answer": "PrimeSoft operates as a remote-first company with a global team. This allows us to source top-tier talent and provide services to clients worldwide, regardless of their location."
+      },
+      {
+        "question": "How long has PrimeSoft been in business?",
+        "answer": "PrimeSoft was founded in 2018. Since then, we have grown into a dedicated team of elite software engineers and designers, consistently delivering high-quality solutions."
+      },
+      {
+        "question": "What makes PrimeSoft different from other software companies?",
+        "answer": "Our key differentiators are our collaborative partnership model, deep technical expertise, and an unwavering commitment to quality and transparency. We don't just build software; we become an extension of your team."
+      },
+      {
+        "question": "Do you offer staff augmentation services?",
+        "answer": "Yes, we provide staff augmentation services where we embed our skilled engineers directly into your existing team to help you scale quickly and efficiently."
+      },
+      {
+        "question": "Can I see examples of your previous work?",
+        "answer": "Yes, you can. We have a dedicated 'Case Studies' section on our website that showcases some of our featured projects and highlights the challenges, solutions, and results we delivered."
+      },
+      {
+        "question": "How do you handle project management?",
+        "answer": "We use modern agile methodologies like Scrum and Kanban. Our project managers ensure a transparent, collaborative process with regular check-ins, sprint reviews, and clear communication channels."
+      },
+      {
+        "question": "Do you work with startups?",
+        "answer": "Yes, we have a strong track record of helping startups bring their ideas to life, from initial concept validation and MVP (Minimum Viable Product) development to scaling and ongoing support."
+      },
+      {
+        "question": "What is the typical size of your projects?",
+        "answer": "We work on projects of all sizes, from small-scale applications and proof-of-concepts to large, complex enterprise-level platforms."
+      }
+    ]
+  },
+  {
+    "category": "Project Initiation & Cost",
+    "faqs": [
+      {
+        "question": "How can I get a quote for my project?",
+        "answer": "You can get a quote by filling out our project inquiry form on the 'Contact Us' page. Please provide as much detail as possible about your project requirements, and our team will respond promptly with a personalized quote."
+      },
+      {
+        "question": "What information do you need for a quote?",
+        "answer": "To provide an accurate quote, we need to understand your business goals, target audience, core features, desired timeline, and any specific technologies you have in mind. A clear project brief is always helpful."
+      },
+      {
+        "question": "What are your pricing models?",
+        "answer": "We offer several flexible pricing models, including fixed-price for well-defined projects, time-and-materials for projects with evolving requirements, and dedicated team models for long-term partnerships."
+      },
+      {
+        "question": "Is the initial consultation free?",
+        "answer": "Yes, our initial consultation and project discovery session are completely free. It's an opportunity for us to understand your needs and for you to learn more about our process."
+      },
+      {
+        "question": "Can you sign a Non-Disclosure Agreement (NDA)?",
+        "answer": "Absolutely. We are happy to sign a Non-Disclosure Agreement (NDA) to protect your ideas and sensitive information from our first meeting."
+      },
+      {
+        "question": "What does a typical project cost?",
+        "answer": "Project costs vary widely based on scope, complexity, and technology stack. We work with you to define a scope that fits your budget and delivers maximum value."
+      },
+      {
+        "question": "Do you require an upfront payment?",
+        "answer": "Our payment terms are flexible and depend on the project's size and duration. We typically require an initial payment to begin work, with subsequent payments tied to project milestones."
+      },
+      {
+        "question": "Can you work within a specific budget?",
+        "answer": "Yes. We can often help you prioritize features to build a Minimum Viable Product (MVP) that meets your budget while still delivering core functionality and business value."
+      },
+      {
+        "question": "How do you manage changes to the project scope?",
+        "answer": "For projects on a time-and-materials model, scope changes are easily accommodated. For fixed-price projects, we work with you to create a change request that outlines the new requirements, timeline, and cost."
+      },
+      {
+        "question": "What happens if the project goes over budget?",
+        "answer": "We maintain transparent communication throughout the project to prevent budget overruns. Any potential changes that could affect the budget are discussed and approved by the client beforehand."
+      }
+    ]
+  },
+  {
+    "category": "Development Process & Technology",
+    "faqs": [
+      {
+        "question": "What is your software development methodology?",
+        "answer": "We primarily follow an agile development methodology, specifically Scrum. This allows us to work in short, iterative cycles (sprints), delivering working software and incorporating your feedback along the way."
+      },
+      {
+        "question": "What technologies do you use?",
+        "answer": "Our technology stack is versatile. We specialize in modern frameworks and languages such as React, Node.js, Python, and Ruby on Rails. We leverage cloud platforms like AWS, Azure, and Google Cloud, and use databases like PostgreSQL and MongoDB."
+      },
+      {
+        "question": "How do you ensure quality?",
+        "answer": "Quality assurance is built into our process. We conduct regular code reviews, automated testing, and manual testing throughout development. Our QA engineers work closely with developers to ensure the final product is robust, bug-free, and performs optimally."
+      },
+      {
+        "question": "What is an MVP?",
+        "answer": "MVP stands for Minimum Viable Product. It is a version of a new product that allows a team to collect the maximum amount of validated learning about customers with the least effort. It's a key strategy for startups and new projects."
+      },
+      {
+        "question": "How do you handle communication during the project?",
+        "answer": "We use tools like Slack, Jira, and Asana for real-time communication, task management, and progress tracking. We also hold regular meetings, including daily stand-ups and weekly progress reports, to keep you fully informed."
+      },
+      {
+        "question": "Do you provide design services?",
+        "answer": "Yes. Our team includes experienced UI/UX designers who create intuitive, user-friendly, and visually appealing interfaces that are optimized for your target audience."
+      },
+      {
+        "question": "Can you integrate with our existing systems?",
+        "answer": "Yes, we have extensive experience integrating new software with existing legacy systems, third-party APIs, and various other services to ensure a seamless and cohesive digital ecosystem."
+      },
+      {
+        "question": "Who owns the code?",
+        "answer": "You do. Upon final payment and project completion, you will have full ownership of the intellectual property, including all source code, design files, and documentation."
+      },
+      {
+        "question": "What is a 'sprint'?",
+        "answer": "A sprint is a fixed-length period (typically 1-2 weeks) during which a development team completes a set amount of work. It is the fundamental building block of the Scrum agile methodology."
+      },
+      {
+        "question": "How do you ensure project milestones are met?",
+        "answer": "We set clear, achievable milestones at the beginning of the project. Our project managers continuously monitor progress and address any potential blockers or issues immediately to stay on track."
+      }
+    ]
+  },
+  {
+    "category": "Post-Launch & Support",
+    "faqs": [
+      {
+        "question": "Do you offer post-launch support and maintenance?",
+        "answer": "Yes, we offer various support and maintenance packages. These services ensure your application remains secure, up-to-date, and performs optimally after launch. We can also handle ongoing feature development."
+      },
+      {
+        "question": "What does a maintenance package include?",
+        "answer": "Our maintenance packages can include a range of services such as bug fixes, security patches, performance monitoring, server management, and technical support."
+      },
+      {
+        "question": "Can I get training for the new software?",
+        "answer": "Yes, we provide comprehensive training and documentation to ensure your team is fully equipped to use and manage the new software. We also offer a knowledge transfer session at the end of the project."
+      },
+      {
+        "question": "How do you handle emergency support?",
+        "answer": "We have an emergency support process in place for critical issues. Clients on a maintenance plan can contact our support team, and we will work to resolve the issue as quickly as possible."
+      },
+      {
+        "question": "How do you handle future updates or new features?",
+        "answer": "We can continue our partnership post-launch on a time-and-materials basis to build out new features or make updates based on your evolving business needs."
+      },
+      {
+        "question": "What if I need a new feature not in the original scope?",
+        "answer": "If you are on a maintenance or retainer agreement, we can easily add new features to the development queue. For other projects, we will provide a new quote and timeline for the additional work."
+      },
+      {
+        "question": "Do you offer hosting services?",
+        "answer": "We do not directly offer hosting, but we have extensive experience deploying and managing applications on all major cloud platforms, including AWS, Azure, and Google Cloud Platform. We can recommend and set up the best solution for your needs."
+      },
+      {
+        "question": "How do you handle software updates and new releases?",
+        "answer": "We follow a Continuous Integration/Continuous Deployment (CI/CD) pipeline, which automates the process of testing and releasing updates. This ensures new features and bug fixes are delivered smoothly and regularly."
+      },
+      {
+        "question": "What is the typical response time for a support ticket?",
+        "answer": "Our response time depends on the severity of the issue, as outlined in our service level agreement (SLA) for maintenance clients. We prioritize critical issues to ensure minimal downtime."
+      },
+      {
+        "question": "Will I have access to the code repository?",
+        "answer": "Yes, you will have access to the code repository from the beginning of the project. We believe in complete transparency and give you full visibility into our work."
+      }
+    ]
+  },
+  {
+    "category": "Security & Confidentiality",
+    "faqs": [
+      {
+        "question": "How do you protect my intellectual property (IP)?",
+        "answer": "Protecting your IP is our top priority. We sign a legally binding Non-Disclosure Agreement (NDA) before any project work begins, and all code ownership rights are transferred to you upon project completion."
+      },
+      {
+        "question": "What security measures do you implement?",
+        "answer": "We adhere to industry best practices for security, including secure coding standards, data encryption, and regular security audits. Our infrastructure is designed to be robust and resilient against threats."
+      },
+      {
+        "question": "How do you handle user data security?",
+        "answer": "We follow strict protocols for handling user data, including pseudonymization, encryption, and access control. We can also help ensure your application complies with relevant data protection regulations like GDPR and CCPA."
+      },
+      {
+        "question": "Are your employees background-checked?",
+        "answer": "All our full-time employees undergo a rigorous vetting process, including background checks, to ensure the highest levels of trustworthiness and professionalism."
+      },
+      {
+        "question": "Do you perform penetration testing?",
+        "answer": "Yes, we can conduct or coordinate with third-party security firms to perform penetration testing to identify and fix potential vulnerabilities in the software before it is launched."
+      },
+      {
+        "question": "What happens if a security vulnerability is found after launch?",
+        "answer": "For clients on a maintenance plan, we provide immediate support to address and patch any critical security vulnerabilities as they are discovered, ensuring your application remains secure."
+      },
+      {
+        "question": "How is code access managed within your team?",
+        "answer": "We follow the principle of least privilege, meaning only team members directly working on your project have access to the code. All access is logged and monitored for security."
+      }
+    ]
+  },
+  {
+    "category": "Team & Collaboration",
+    "faqs": [
+      {
+        "question": "What does a typical project team look like?",
+        "answer": "A typical project team includes a Project Manager, one or more Senior Developers, a dedicated QA Engineer, and a UI/UX Designer. The size and composition of the team are tailored to your project's needs."
+      },
+      {
+        "question": "Can I meet the team before we start?",
+        "answer": "Yes, we encourage you to meet the project team during the discovery phase. This helps build a strong relationship and ensures a collaborative, successful partnership from the very beginning."
+      },
+      {
+        "question": "How do you handle time zone differences?",
+        "answer": "As a global, remote-first company, we are adept at managing time zone differences. We ensure there is a sufficient overlap of working hours for effective communication and collaboration."
+      },
+      {
+        "question": "Can I provide my own designers or developers?",
+        "answer": "Yes, we can work with your existing team members to ensure a smooth collaboration. Our flexible models can be adapted to fit your specific resource needs."
+      },
+      {
+        "question": "How do you ensure a shared understanding of the project?",
+        "answer": "We use detailed documentation, wireframes, and prototypes to ensure a clear and shared understanding of the project's scope and vision. We also hold regular meetings to align on goals and progress."
+      }
+    ]
+  },
+  {
+    "category": "Technical & Operational",
+    "faqs": [
+      {
+        "question": "What is DevOps?",
+        "answer": "DevOps is a set of practices that combines software development (Dev) and IT operations (Ops). It aims to shorten the software development life cycle and provide continuous delivery with high software quality."
+      },
+      {
+        "question": "Do you provide API development services?",
+        "answer": "Yes, we specialize in building robust and scalable APIs (Application Programming Interfaces) that serve as the backbone for your web and mobile applications."
+      },
+      {
+        "question": "What is a 'tech stack'?",
+        "answer": "A tech stack is the combination of programming languages, frameworks, servers, and databases used to build a web or mobile application. We help you choose the most efficient and scalable tech stack for your project."
+      },
+      {
+        "question": "How do you handle testing?",
+        "answer": "We follow a comprehensive testing strategy that includes unit testing, integration testing, end-to-end testing, and user acceptance testing (UAT) to ensure the software is reliable and bug-free."
+      },
+      {
+        "question": "What is CI/CD?",
+        "answer": "CI/CD stands for Continuous Integration/Continuous Deployment. It's an automated process that allows developers to merge their code changes into a main branch and automatically test and deploy the application, speeding up delivery and reducing errors."
+      },
+      {
+        "question": "Do you work with legacy systems?",
+        "answer": "Yes, we have experience in modernizing and migrating legacy systems. We can help you transition to a more modern and scalable architecture without disrupting your business operations."
+      },
+      {
+        "question": "How do you handle version control?",
+        "answer": "We use Git, a distributed version control system, hosted on platforms like GitHub or GitLab. This allows our team to collaborate efficiently, track every change, and revert to previous versions if needed."
+      },
+      {
+        "question": "Do you provide cloud migration services?",
+        "answer": "Yes. Our team can assist with migrating your on-premise infrastructure to a public cloud, a private cloud, or a hybrid solution. We handle the entire process, from planning to execution and optimization."
+      },
+      {
+        "question": "What is UI/UX design?",
+        "answer": "UI (User Interface) is the visual layout of an application, while UX (User Experience) is the overall feel and ease of use. Both are critical for creating a successful product that users love."
+      },
+      {
+        "question": "How do you optimize for performance?",
+        "answer": "We focus on building a scalable architecture from the start. We also use performance monitoring tools, conduct regular load testing, and optimize code to ensure your application can handle high traffic and demand."
+      }
+    ]
+  },
+  {
+    "category": "Client Relationship & Feedback",
+    "faqs": [
+      {
+        "question": "How often will I receive project updates?",
+        "answer": "We provide a weekly progress report that includes a summary of completed work, upcoming tasks, and a demonstration of new features. You also have access to our project management tools for real-time updates."
+      },
+      {
+        "question": "How do you handle client feedback?",
+        "answer": "Feedback is crucial to our agile process. We gather feedback at the end of each sprint and incorporate it into the next cycle. This ensures the final product aligns perfectly with your vision."
+      },
+      {
+        "question": "What if I'm not happy with the progress?",
+        "answer": "We believe in open and honest communication. If you have any concerns, we will immediately schedule a meeting to address them. Our goal is to ensure you are completely satisfied at every stage of the project."
+      },
+      {
+        "question": "Will I have a dedicated point of contact?",
+        "answer": "Yes, you will have a dedicated Project Manager who serves as your primary point of contact. They will be responsible for all communication and project coordination."
+      },
+      {
+        "question": "How involved do I need to be in the project?",
+        "answer": "Your involvement is key to a successful partnership. We require your participation in initial discovery sessions, regular feedback on new features, and sprint review meetings to ensure we are always aligned with your goals."
+      },
+      {
+        "question": "Do you offer a warranty on your work?",
+        "answer": "Yes, we offer a standard warranty period after the project is launched to fix any bugs or issues that may arise. This period is specified in our final agreement."
+      }
+    ]
+  },
+  {
+    "category": "Miscellaneous",
+    "faqs": [
+      {
+        "question": "What is the difference between a website and a web application?",
+        "answer": "A website is typically static, presenting information. A web application is dynamic and interactive, allowing users to perform specific tasks, like managing data, making purchases, or collaborating with others."
+      },
+      {
+        "question": "How do I know if I need a custom solution?",
+        "answer": "If off-the-shelf software doesn't meet your unique business needs, a custom solution can provide a competitive advantage, streamline your operations, and scale with your growth."
+      },
+      {
+        "question": "What's the difference between a front-end and a back-end developer?",
+        "answer": "A **front-end developer** builds the user interface—what you see and interact with. A **back-end developer** builds the server-side logic and database—the unseen 'engine' that powers the application."
+      },
+      {
+        "question": "Do you provide mobile-first development?",
+        "answer": "Yes, we prioritize a mobile-first approach, ensuring that your web application is fully responsive and provides an excellent user experience on mobile devices from the ground up."
+      },
+      {
+        "question": "What is an API?",
+        "answer": "An API (Application Programming Interface) is a set of rules and protocols for building and interacting with software applications. It allows different systems to communicate with each other, such as your app talking to a payment service."
+      },
+      {
+        "question": "What is cloud computing?",
+        "answer": "Cloud computing is the delivery of on-demand computing services—including servers, storage, databases, networking, software, and analytics—over the internet. It offers greater flexibility, scalability, and cost-efficiency."
+      },
+      {
+        "question": "What is a 'bug' in software development?",
+        "answer": "A bug is an error, flaw, or fault in a computer program that causes it to produce an incorrect or unexpected result, or to behave in unintended ways. Our QA process is designed to find and fix bugs early."
+      },
+      {
+        "question": "Can you help with app store submission?",
+        "answer": "Yes, if we develop a mobile application for you, we can guide you through the process of submitting it to the Apple App Store and Google Play Store, ensuring it meets all their guidelines."
+      },
+      {
+        "question": "How do you approach long-term partnerships?",
+        "answer": "We view our clients as long-term partners. Our goal is to build a lasting relationship based on trust and mutual success, providing ongoing support and strategic guidance as your business grows."
+      },
+      {
+        "question": "What is a hackathon and why do you do it?",
+        "answer": "A hackathon is a short, intensive event where our developers collaborate on innovative side projects. We do it to foster a culture of creativity, skill-building, and team cohesion, which directly benefits our clients with fresh ideas."
+      }
+    ]
+  }
+]

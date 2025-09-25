@@ -8,7 +8,7 @@ import "./../assets/css/MainSection.css";
 import inProgressImage from "../assets/images/vector1.png";
 import resolvedImage from "../assets/images/vector1.png";
 
-const MainSection = () => {
+const CustomerService = () => {
   const [tickets, setTickets] = useState(ticketsData);
   const [inProgress, setInProgress] = useState([]);
   const [resolved, setResolved] = useState([]);
@@ -193,4 +193,4 @@ const MainSection = () => {
   );
 };
 
-export default MainSection;
+export default CustomerService;
