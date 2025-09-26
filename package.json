@@ -27,5 +27,8 @@
   "bugs": {
     "url": "https://github.com/fahim-5/PrimeSoft/issues"
   },
-  "homepage": "https://github.com/fahim-5/PrimeSoft#readme"
+  "homepage": "https://github.com/fahim-5/PrimeSoft#readme",
+  "dependencies": {
+    "all": "^0.0.0"
+  }
 }
