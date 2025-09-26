@@ -26,11 +26,7 @@ Thumbs.db
 # Dependency directories
 bower_components/
 
-# Environment files
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
+
 
 # MySQL data directory (if applicable)
 mysql_data/

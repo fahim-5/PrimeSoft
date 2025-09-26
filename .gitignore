@@ -10,9 +10,8 @@ yarn-error.log*
 # === Node.js Modules (Root) ===
 node_modules/
 
-# === Backend (Express/Node.js) Ignores ===
-/backend/node_modules
-/backend/.env
+
+
 
 # === Frontend (React/Vite) Ignores ===
 /frontend/node_modules
