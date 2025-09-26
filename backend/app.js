@@ -1,32 +1,65 @@
 const express = require("express");
 const cors = require("cors");
 const morgan = require("morgan");
-
+const helmet = require("helmet");
 const app = express();
 
-// Middleware
-app.use(cors());
+
+
+const ApiError = require('./utils/ApiError'); 
+const apiRoutes = require('./routes/apiRoutes');
+const errorMiddleware = require('./middleware/errorMiddleware');
+
+
+
+app.use(helmet()); 
+app.use(cors({
+    origin: process.env.NODE_ENV === 'production' 
+        ? 'YOUR_FRONTEND_URL' 
+        : '*', 
+    methods: ['GET', 'POST', 'PUT', 'DELETE'],
+    credentials: true
+}));
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
+
 if (process.env.NODE_ENV === "development") {
-  app.use(morgan("dev"));
+    app.use(morgan("dev"));
 }
 
-// Test route
+
+
+
+
 app.get("/", (req, res) => {
-  res.send("Hello from Express!");
+    res.status(200).json({
+        message: "PrimeSoft Backend API is running successfully!",
+        environment: process.env.NODE_ENV || "development",
+    });
 });
 
-// 404 handler
-app.use((req, res) => {
-  res.status(404).json({ message: "🚫 Route not found" });
+
+
+
+// this will mount all my routes
+app.use("/api/v1", apiRoutes);
+
+
+
+
+
+
+// === 4. UNHANDLED ROUTE CATCHER (Runs BEFORE errorMiddleware) 
+app.all(/(.*)/, (req, res, next) => {
+    next(new ApiError(404, `Route not found: ${req.originalUrl}`));
 });
 
-// Error handler
-app.use((err, req, res, next) => {
-  console.error("❌ Server Error:", err.stack);
-  res.status(500).json({ message: "Internal Server Error" });
-});
+
+
+
+
+app.use(errorMiddleware);
+
 
 module.exports = app;
