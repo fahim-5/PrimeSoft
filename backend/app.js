@@ -15,7 +15,7 @@ const errorMiddleware = require('./middleware/errorMiddleware');
 app.use(helmet()); 
 app.use(cors({
     origin: process.env.NODE_ENV === 'production' 
-        ? 'YOUR_FRONTEND_URL' 
+        ? 'http://localhost:5173' 
         : '*', 
     methods: ['GET', 'POST', 'PUT', 'DELETE'],
     credentials: true
